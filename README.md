@@ -5,7 +5,7 @@ Former Deployment Strategist Intern @ Palantir
 
 ## Current Work
 ---
-### (https://www.vetinari.ai/)[Vetinari]
+### [Vetinari](https://www.vetinari.ai/)
 Make the world safer by applying multimodal to video. 
 
 AI-native video intelligence for safety and risk analysis.
