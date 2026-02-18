@@ -1,7 +1,7 @@
 # Khaled Messai
 
 Computer Science @ Stanford  
-Former Deployment Strategist Intern @ Palantir  
+Formerly @ Palantir  
 
 ## Current Work
 ---
