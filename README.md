@@ -18,11 +18,10 @@ AI-native video intelligence for safety and risk analysis.
 ---
 
 ### [On One Arrow](https://github.com/Eirawen/On-One-Arrow)
-What will games look like in the future? I believe when code is free, the spec becomes everything. 
-But games are incredibly interconnected. If you try offloading the adhoc generation of 
+What will games look like in the future? Games are incredibly interconnected. If you try offloading the adhoc generation of 
 Graphical Assets, Networking, Gameplay Mechanics, Writing, Voice and Sound, Level design, World Generation... 
-It's just too much. So the hypothesis is to reduce the decision space, almost like an RPG maker approach, but by defining a scripting structure and enforcing strict checks on
-agents. 
+It's just too much. So the hypothesis is to reduce the decision space, as more specialized engines e.g. RPG maker historically have done, but specialized for 
+agents to be the interface. 
 
 Via: 
 - GameSpec (typed IR)  
