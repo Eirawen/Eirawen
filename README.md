@@ -17,7 +17,7 @@ AI-native video intelligence for safety and risk analysis.
 ## Other Stuff
 ---
 
-### [Zanarkand][https://zanarkand.ai/]
+### [Zanarkand](https://zanarkand.ai/)
 
 Four Openclaw instances solve C4 rice photosynthesis on a 24/7 stream. 
 
