@@ -16,7 +16,7 @@ AI-native video intelligence for safety and risk analysis.
 
 ---
 
-### [Crescent]
+### Crescent
 Agent scriptable networked game engine. 
 
 ---
