@@ -2,11 +2,9 @@
 
 Computer Science @ Stanford  
 
-## Things I've done 
+## What I'm Doing Now
 ---
 ### [Vetinari](https://www.vetinari.ai/)
-Make the world safer by applying multimodal to video. 
-
 AI-native video intelligence for safety and risk analysis.
 - Multi-camera ingestion  
 - Event detection + near-miss workflows  
@@ -14,6 +12,9 @@ AI-native video intelligence for safety and risk analysis.
 - Human-in-the-loop review  
 - Agent-driven automation
 
+---
+
+## Other Stuff
 ---
 
 ### [Overseer](https://github.com/Eirawen/Overseer)
