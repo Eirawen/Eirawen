@@ -1,9 +1,8 @@
 # Khaled Messai
 
 Computer Science @ Stanford  
-Formerly @ Palantir  
 
-## Current Work
+## Things I've done 
 ---
 ### [Vetinari](https://www.vetinari.ai/)
 Make the world safer by applying multimodal to video. 
@@ -17,18 +16,8 @@ AI-native video intelligence for safety and risk analysis.
 
 ---
 
-### [On One Arrow](https://github.com/Eirawen/On-One-Arrow)
-What will games look like in the future? Games are incredibly interconnected. If you try offloading the adhoc generation of 
-Graphical Assets, Networking, Gameplay Mechanics, Writing, Voice and Sound, Level design, World Generation... 
-It's just too much. So the hypothesis is to reduce the decision space, as more specialized engines e.g. RPG maker historically have done, but specialized for 
-agents to be the interface. 
-
-Via: 
-- GameSpec (typed IR)  
-- StylePack  
-- Seeds  
-
-…and produces a runnable Godot client + authoritative server with reproducible builds. 
+### [Crescent]
+Agent scriptable networked game engine. 
 
 ---
 
@@ -36,6 +25,25 @@ Via:
 
 Orchestration and long term planning by agents working within a single repository,
 that determines which tasks should go in the "human queue" (e.g. UI style direction, .env modification, deployment),
+
+---
+
+### [Rachmaniclaude](https://github.com/Eirawen/musiclaude/tree/main)
+
+Agents writing sheet music with ML feedback.
+
+---
+
+### [188 Parameter 10 Digit Addition Transformer](https://github.com/Eirawen/188-param-10k-addition)
+
+Experiments to lower parameter count for 10 digit addition.
+
+---
+
+### [Inkling](https://github.com/Eirawen/Inkling) 
+
+Real time editing of Gaussian splats with algorithmic LLM tool calls. 
+
 
 
 
