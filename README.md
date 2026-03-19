@@ -16,11 +16,6 @@ AI-native video intelligence for safety and risk analysis.
 
 ---
 
-### Crescent
-Agent scriptable networked game engine. 
-
----
-
 ### [Overseer](https://github.com/Eirawen/Overseer)
 
 Orchestration and long term planning by agents working within a single repository,
