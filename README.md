@@ -17,6 +17,12 @@ AI-native video intelligence for safety and risk analysis.
 ## Other Stuff
 ---
 
+### [Zanarkand][https://zanarkand.ai/]
+
+Four Openclaw instances solve C4 rice photosynthesis on a 24/7 stream. 
+
+---
+
 ### [Overseer](https://github.com/Eirawen/Overseer)
 
 Orchestration and long term planning by agents working within a single repository,
@@ -39,6 +45,8 @@ Experiments to lower parameter count for 10 digit addition.
 ### [Inkling](https://github.com/Eirawen/Inkling) 
 
 Real time editing of Gaussian splats with algorithmic LLM tool calls. 
+
+
 
 
 
